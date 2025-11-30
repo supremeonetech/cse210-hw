@@ -1,0 +1,5 @@
+0
+EVENTS|0
+LEVEL|1
+EternalGoal|James|Baptism|100|0
+BADGES|
